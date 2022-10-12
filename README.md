@@ -1,12 +1,12 @@
-## Take-A-QuizNew
+# Take-A-QuizNew
 
-# User Story
+## User Story
 
 AS A coding boot camp student <br>
 I WANT to take a timed quiz on JavaScript fundamentals that stores high scores <br>
 SO THAT I can gauge my progress compared to my peers <br>
 
-# Acceptance Criteria
+## Acceptance Criteria
 
 GIVEN I am taking a code quiz <br>
 WHEN I click the start button <br>
