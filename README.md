@@ -20,3 +20,9 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
 
+
+![](image/04-web-apis-homework-demo.gif)
+
+[Click Here To Access index.html](http://127.0.0.1:5500/index.html)
+[Click Here To Access highscores.html](http://127.0.0.1:5500/highscores.html)
+
